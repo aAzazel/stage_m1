@@ -1,0 +1,22 @@
+Date : 2025-06-04 00:26:09
+354	25359	55181	0.006415251626465631
+Date : 2025-06-04 00:32:46
+187	25359	55181	0.003388847610590602
+Date : 2025-06-04 00:41:48
+187 paires de doublons
+25359 requêtes avec au moins deux passages pertinents	55181	0.003388847610590602
+55181 passages pertinents pour ces requêtes	0.003388847610590602
+0.003388847610590602 proportion de doublons parmi tous les passages
+0.5106387138366699 secondes
+Date : 2025-06-04 01:12:07
+187 paires de doublons
+25359 requêtes avec au moins deux passages pertinents	55181	0.006777695221181204
+55181 passages pertinents pour ces requêtes	0.006777695221181204
+0.006777695221181204 proportion de doublons parmi tous les passages
+0.35800933837890625 secondes
+Date : 2025-07-04 23:52:06
+187 paires de doublons
+25359 requêtes avec au moins deux passages pertinents	55181	0.006777695221181204
+55181 passages pertinents pour ces requêtes	0.006777695221181204
+0.006777695221181204 proportion de doublons parmi tous les passages
+8.052725553512573 secondes

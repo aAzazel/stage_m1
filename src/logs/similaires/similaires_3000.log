@@ -1,0 +1,12 @@
+Date : 2025-07-04 22:29:32
+taille des titres : data/titres_3000.tsv
+Nb passages : 3000
+nb_doublons_total : 2.0
+nb_paires_doublons : 1.0
+taux_doublons_total : 0.0006666666666666666
+Temps d'exécution: 227.02528142929077 secondes
+Nombre de passages à indexer : 516472
+Nb paires ayant le même titre : 0
+dice_score_req : None
+Temps d'exécution: 2.621325969696045 secondes
+
